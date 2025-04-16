@@ -1,4 +1,4 @@
-# Hey there! 👋
+### Hey there! 👋
 
 ## 📊 Featured Personal Projects (pinned repositories)
 
