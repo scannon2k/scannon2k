@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**scannon2k/scannon2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Featured Personal Projects (pinned repositories)
 
-Here are some ideas to get you started:
+- [**Forecasting Gainesville Electricity Demand Using GRU Data**](report link)  
+  Explore publicly available Gainesville electricity data and test two seaonsal forecasting models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**Machine Learning Using Pokémon Go Data**](report link)  
+  Getting hands-on experience with clustering, regression, and random forest using popular python data science libraries and data from the mobile game Pokémon GO.
+
+- [**Lichess Exploratory Data Analysis**](report link)  
+  Diving into Lichess data using python wrangling tools like pandas and conducting EDA using well-known charting libraries like matplotlib and seaborn.
+
+- [**Modeling Inflation Using Ensemble Forecasting**](report link)  
+  Use a Phillips curve specification to forecast year-ahead inflation and try an ensemble modeling approach using data from FRED.
+  
