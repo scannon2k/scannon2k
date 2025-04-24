@@ -1,5 +1,3 @@
-### Hey there! 👋
-
 ## 📊 Featured Personal Projects (pinned repositories)
 
 - [**Forecasting Gainesville Electricity Demand Using GRU Data**](https://scannon2k.github.io/electricity-forecasting/)  
